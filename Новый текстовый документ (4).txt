@@ -1,0 +1,6 @@
+    playerenergy -= 5
+    bosshp -= 10
+    print(f"вы ударили рукой у босса {bosshp} хп осталось")
+
+playerhp -= 5
+    print(f"босс ударил вас рукой у вас осталось {playerhp} хп")
